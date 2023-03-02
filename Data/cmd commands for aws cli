@@ -1,0 +1,12 @@
+
+
+aws s3 cp D:\data\de\USvideos.csv s3://dep-yt-raw-useast1-dev/youtube/raw_statistics/region=us/
+aws s3 cp D:\data\de\RUvideos.csv s3://dep-yt-raw-useast1-dev/youtube/raw_statistics/region=us/
+aws s3 cp D:\data\de\MXvideos.csv s3://dep-yt-raw-useast1-dev/youtube/raw_statistics/region=us/
+aws s3 cp D:\data\de\KRvideos.csv s3://dep-yt-raw-useast1-dev/youtube/raw_statistics/region=us/
+aws s3 cp D:\data\de\JPvideos.csv s3://dep-yt-raw-useast1-dev/youtube/raw_statistics/region=us/
+aws s3 cp D:\data\de\INvideos.csv s3://dep-yt-raw-useast1-dev/youtube/raw_statistics/region=us/
+aws s3 cp D:\data\de\GBvideos.csv s3://dep-yt-raw-useast1-dev/youtube/raw_statistics/region=us/
+aws s3 cp D:\data\de\FRvideos.csv s3://dep-yt-raw-useast1-dev/youtube/raw_statistics/region=us/
+aws s3 cp D:\data\de\DEvideos.csv s3://dep-yt-raw-useast1-dev/youtube/raw_statistics/region=us/
+aws s3 cp D:\data\de\CAvideos.csv s3://dep-yt-raw-useast1-dev/youtube/raw_statistics/region=us/
